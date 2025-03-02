@@ -4,15 +4,14 @@ This is a simple command-line application written in Go that fetches the current
 
 ## Installation
 
-1. Install [Go](https://go.dev/dl/).
-2. Clone this repository:
+1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/weather-cli.git
-   cd weather-cli
+     git clone https://github.com/Sameer013/go_weatherApp.git
+      cd go_weatherApp
    ```
-3. Build the application:
+2. Build the application:
    ```sh
-   go build -o weather_app.exe
+   go build 
    ```
 
 ## Usage
