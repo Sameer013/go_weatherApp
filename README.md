@@ -6,8 +6,8 @@ This is a simple command-line application written in Go that fetches the current
 
 1. Clone this repository:
    ```sh
-     git clone https://github.com/Sameer013/go_weatherApp.git
-     cd go_weatherApp
+   git clone https://github.com/Sameer013/go_weatherApp.git
+   cd go_weatherApp
    ```
 2. Build the application:
    ```sh
