@@ -30,7 +30,7 @@ Run the application by passing the city name as a command-line argument:
 **Example:**
 
 ```sh
-./weather_app.exe London
+./weather_app.exe Jamshedpur
 ```
 
 ## 🛠️ Requirements
