@@ -1,21 +1,43 @@
-# Weather CLI App
+# 🌤️ Weather CLI App
 
-This is a simple command-line application written in Go that fetches the current weather for a specified city.
+A simple and lightweight command-line application written in Go that retrieves the current weather for any specified city using a weather API.
 
-## Installation
+## 🚀 Installation
 
-1. Clone this repository:
+1. **Clone the repository:**
+
    ```sh
    git clone https://github.com/Sameer013/go_weatherApp.git
    cd go_weatherApp
    ```
-2. Build the application:
+
+2. **Build the application:**
+
    ```sh
-   go build 
+   go build
    ```
 
-## Usage
+   This will create an executable file in the current directory.
 
-Run the application with a city name as an argument:
+## 📦 Usage
+
+Run the application by passing the city name as a command-line argument:
+
 ```sh
-$ ./weather_app.exe cityname
+./weather_app.exe [cityname]
+```
+
+**Example:**
+
+```sh
+./weather_app.exe London
+```
+
+## 🛠️ Requirements
+
+- Go installed on your system (version 1.16 or higher recommended)
+- Internet connection (for fetching weather data)
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
